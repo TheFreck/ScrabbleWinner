@@ -1,4 +1,6 @@
 # ScrabbleWinner
+(This was a fivethirtyeight.com Riddler)
+
 Seeks the optimal arrangement of all 100 scrabble tiles to grant the highest score possible
 
 This console app was created to solve the 538 dot com weekly riddler. The goal was to find the highest score word that can be made out of all 100 scrabble tiles.
